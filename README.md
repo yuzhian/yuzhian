@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 [![My github stats](https://github-readme-stats.vercel.app/api?username=yuzhian&show_icons=true&count_private=true)](https://github.com/yuzhian)
+-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzhian&layout=compact)
